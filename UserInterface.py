@@ -1,5 +1,5 @@
 import pygame as p
-from chess import BoardGeneration, Perft
+import BoardGeneration, Perft
 import time
 
 WIDTH = HEIGHT = 512

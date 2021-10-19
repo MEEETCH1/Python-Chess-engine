@@ -1,4 +1,4 @@
-import numpy as np
+# import numpy as np
 
 def reverse(x):
     x = ((x & 0x5555555555555555) << 1) | ((x & 0xAAAAAAAAAAAAAAAA) >> 1)

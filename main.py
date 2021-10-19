@@ -1,4 +1,4 @@
-from chess import UserInterface, BoardGeneration
+import UserInterface, BoardGeneration
 from game import Game
 
 g = Game(BoardGeneration.BoardGeneration())
